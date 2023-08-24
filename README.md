@@ -1,2 +1,2 @@
 # -ANIMATION-Selection-Sorter
-Animated Selection Sorter created for the final project of Junior Yr 
+Animated Selection Sorter created for the final project of Data Structures
